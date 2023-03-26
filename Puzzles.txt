@@ -1,0 +1,20 @@
+Some questions in cs61a summer 2020 which keep me puzzled:
+Homework 3 Q4: Count change
+Homework 3 Q5: Towers of Hanoi
+Homework 3 Q6: Anonymous factorial
+Lab 5 Q6: Add trees
+Cats Extra Credit Problem 1: Accuracy
+Cats Extra Credit Problem 2: Efficiency
+Lab 7 Q2: Increasing Subsequences
+Lab 7 Q6: Number of Trees
+Homework 5 Q5: Joint Account
+Homework 5 Q6: Remainder Generator
+Lab 8 Q2: Generators generator
+Lab 9 Q3: Every Other
+Lab 9 Q5: Cumulative Mul
+Lab 9 Q6: Cycles
+Homework 6 Q4: Is BST
+Homework 6 Q5: Store Digits
+Homework 6 Q6:Yield Paths
+Homework 6 Q7:Remove All
+Homework 6 Q8:Deep Map
